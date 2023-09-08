@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/libraries/TransferHelper.sol",
+    "id": 30186,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "1942:0:31",
+    "nodes": [],
+    "license": "GPL-3.0-or-later"
+  },
+  "id": 31
+}

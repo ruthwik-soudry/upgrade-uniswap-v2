@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/libraries/FullMath.sol",
+    "id": 30108,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "1396:0:28",
+    "nodes": [],
+    "license": "CC-BY-4.0"
+  },
+  "id": 28
+}

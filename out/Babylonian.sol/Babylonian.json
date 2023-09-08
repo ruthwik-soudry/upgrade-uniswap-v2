@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/libraries/Babylonian.sol",
+    "id": 30105,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "1734:0:25",
+    "nodes": [],
+    "license": "GPL-3.0-or-later"
+  },
+  "id": 25
+}

@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/libraries/SafeMath.sol",
+    "id": 30185,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "643:0:30",
+    "nodes": [],
+    "license": "Unlicense"
+  },
+  "id": 30
+}

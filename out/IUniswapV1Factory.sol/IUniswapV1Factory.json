@@ -1,0 +1,239 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "getExchange",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": {
+    "object": "0x",
+    "sourceMap": "",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "sourceMap": "",
+    "linkReferences": {}
+  },
+  "methodIdentifiers": {
+    "getExchange(address)": "06f2bf62"
+  },
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"name\":\"getExchange\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"src/periphery/interfaces/V1/IUniswapV1Factory.sol\":\"IUniswapV1Factory\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\",\":openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/\",\":solmate/=lib/solmate/src/\"]},\"sources\":{\"src/periphery/interfaces/V1/IUniswapV1Factory.sol\":{\"keccak256\":\"0x8c35d1e8e3f1cdfaf97525ffc9f0785e064acaaaf0d13486e91a508f20440c22\",\"urls\":[\"bzz-raw://dd3a30c83c34e2d61a64552222bb58781108b04df6853b7bf5106bdee73d1131\",\"dweb:/ipfs/QmVWRAECrxgMyWZCbMxB3mTrNXzPNMZHYM75ot2rW5Tdwg\"]}},\"version\":1}",
+  "metadata": {
+    "compiler": {
+      "version": "0.8.21+commit.d9974bed"
+    },
+    "language": "Solidity",
+    "output": {
+      "abi": [
+        {
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "",
+              "type": "address"
+            }
+          ],
+          "stateMutability": "view",
+          "type": "function",
+          "name": "getExchange",
+          "outputs": [
+            {
+              "internalType": "address",
+              "name": "",
+              "type": "address"
+            }
+          ]
+        }
+      ],
+      "devdoc": {
+        "kind": "dev",
+        "methods": {},
+        "version": 1
+      },
+      "userdoc": {
+        "kind": "user",
+        "methods": {},
+        "version": 1
+      }
+    },
+    "settings": {
+      "remappings": [
+        "ds-test/=lib/forge-std/lib/ds-test/src/",
+        "forge-std/=lib/forge-std/src/",
+        "openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/",
+        "solmate/=lib/solmate/src/"
+      ],
+      "optimizer": {
+        "enabled": true,
+        "runs": 200
+      },
+      "metadata": {
+        "bytecodeHash": "ipfs"
+      },
+      "compilationTarget": {
+        "src/periphery/interfaces/V1/IUniswapV1Factory.sol": "IUniswapV1Factory"
+      },
+      "libraries": {}
+    },
+    "sources": {
+      "src/periphery/interfaces/V1/IUniswapV1Factory.sol": {
+        "keccak256": "0x8c35d1e8e3f1cdfaf97525ffc9f0785e064acaaaf0d13486e91a508f20440c22",
+        "urls": [
+          "bzz-raw://dd3a30c83c34e2d61a64552222bb58781108b04df6853b7bf5106bdee73d1131",
+          "dweb:/ipfs/QmVWRAECrxgMyWZCbMxB3mTrNXzPNMZHYM75ot2rW5Tdwg"
+        ],
+        "license": null
+      }
+    },
+    "version": 1
+  },
+  "ast": {
+    "absolutePath": "src/periphery/interfaces/V1/IUniswapV1Factory.sol",
+    "id": 33829,
+    "exportedSymbols": {
+      "IUniswapV1Factory": [
+        33828
+      ]
+    },
+    "nodeType": "SourceUnit",
+    "src": "0:125:43",
+    "nodes": [
+      {
+        "id": 33820,
+        "nodeType": "PragmaDirective",
+        "src": "0:24:43",
+        "nodes": [],
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".19"
+        ]
+      },
+      {
+        "id": 33828,
+        "nodeType": "ContractDefinition",
+        "src": "26:98:43",
+        "nodes": [
+          {
+            "id": 33827,
+            "nodeType": "FunctionDefinition",
+            "src": "60:62:43",
+            "nodes": [],
+            "functionSelector": "06f2bf62",
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "getExchange",
+            "nameLocation": "69:11:43",
+            "parameters": {
+              "id": 33823,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 33822,
+                  "mutability": "mutable",
+                  "name": "",
+                  "nameLocation": "-1:-1:-1",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 33827,
+                  "src": "81:7:43",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_address",
+                    "typeString": "address"
+                  },
+                  "typeName": {
+                    "id": 33821,
+                    "name": "address",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "81:7:43",
+                    "stateMutability": "nonpayable",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_address",
+                      "typeString": "address"
+                    }
+                  },
+                  "visibility": "internal"
+                }
+              ],
+              "src": "80:9:43"
+            },
+            "returnParameters": {
+              "id": 33826,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 33825,
+                  "mutability": "mutable",
+                  "name": "",
+                  "nameLocation": "-1:-1:-1",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 33827,
+                  "src": "113:7:43",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_address",
+                    "typeString": "address"
+                  },
+                  "typeName": {
+                    "id": 33824,
+                    "name": "address",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "113:7:43",
+                    "stateMutability": "nonpayable",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_address",
+                      "typeString": "address"
+                    }
+                  },
+                  "visibility": "internal"
+                }
+              ],
+              "src": "112:9:43"
+            },
+            "scope": 33828,
+            "stateMutability": "view",
+            "virtual": false,
+            "visibility": "external"
+          }
+        ],
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "IUniswapV1Factory",
+        "contractDependencies": [],
+        "contractKind": "interface",
+        "fullyImplemented": false,
+        "linearizedBaseContracts": [
+          33828
+        ],
+        "name": "IUniswapV1Factory",
+        "nameLocation": "36:17:43",
+        "scope": 33829,
+        "usedErrors": [],
+        "usedEvents": []
+      }
+    ]
+  },
+  "id": 43
+}

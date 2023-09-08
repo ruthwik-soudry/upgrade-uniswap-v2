@@ -1,0 +1,20 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/periphery/UniswapV2Migrator.sol",
+    "id": 32650,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "2331:0:38",
+    "nodes": []
+  },
+  "id": 38
+}

@@ -1,0 +1,20 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/periphery/UniswapV2Router01.sol",
+    "id": 32651,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "13503:0:39",
+    "nodes": []
+  },
+  "id": 39
+}

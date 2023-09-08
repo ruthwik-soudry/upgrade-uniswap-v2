@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/interfaces/IERC20.sol",
+    "id": 30011,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "934:0:20",
+    "nodes": [],
+    "license": "Unlicense"
+  },
+  "id": 20
+}

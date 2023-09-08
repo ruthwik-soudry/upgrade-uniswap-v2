@@ -1,0 +1,20 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/test/UniswapV2Factory.t.sol",
+    "id": 1301,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "2453:0:19",
+    "nodes": []
+  },
+  "id": 19
+}

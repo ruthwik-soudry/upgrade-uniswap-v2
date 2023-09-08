@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/core/libraries/BitMath.sol",
+    "id": 30106,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "2423:0:26",
+    "nodes": [],
+    "license": "GPL-3.0-or-later"
+  },
+  "id": 26
+}
